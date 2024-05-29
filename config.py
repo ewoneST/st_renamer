@@ -12,9 +12,9 @@ class Config(object):
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "")  # ⚠️ Required
 
     # premium 4g renaming client
-    STRING_API_ID = os.environ.get("STRING_API_ID", "")
-    STRING_API_HASH = os.environ.get("STRING_API_HASH", "")
-    STRING_SESSION = os.environ.get("STRING_SESSION", "")
+    STRING_API_ID = os.environ.get("STRING_API_ID", "29759992")
+    STRING_API_HASH = os.environ.get("STRING_API_HASH", "61f150cdca64b2916fa499d107393140")
+    STRING_SESSION = os.environ.get("STRING_SESSION", "BQHGGfgAYnI0zaGWwYVGHINHADJ6LzeTW1wbLLs9MToDm_GjKBHZGd2sSCtiroCzSvM6QilyMfjurX-MOLrm0WQMVC0EdPUX4W6pvUrVEoqnU37lQLouMCTmcJApnfkdg_W_0lXwN1jGuvGXpM07Peb1t3Nu-H0fEmaPiiGtfCtbsfX-s9eufbuKJBOdeAWF1SfMrvkAiL33tyVOq8jwVTkH-1HLZuY7yhp63B4uNPtgh_ie8xXBzpHNcf7-Cd3ni43ujXSgRsfop_3LTfyqqU9dDD0EYv59DPlfP-tlgQDye06V1uBaKhnCzfx3G7Qs4JSPmWE00ZFpC3YfUL5V4mYIQBGUygAAAAFY9ke4AA")
 
     # database config
     DB_NAME = os.environ.get("DB_NAME", "Snow_User_Data")
