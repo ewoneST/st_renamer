@@ -87,7 +87,7 @@ Exᴀᴍᴩʟᴇ:- <code> /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 
 ☞ Fᴏʀ Exᴀᴍᴘʟᴇ:-
 
-◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Powered By:- @STThamizhan" -metadata author="@Snowball_Official" -metadata:s:s title="Subtitled By :- @STThamizhan" -metadata:s:a title="By :- @STThamizhan" -metadata:s:v title="By:- @Snowball_Official" </code>
+◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Powered By:- @STThamizhan" -metadata author="@st_update" -metadata:s:s title="Subtitled By :- @STThamizhan" -metadata:s:a title="By :- @STThamizhan" -metadata:s:v title="By:- @st_update" </code>
 
 📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ. @STThamizhan
 """
