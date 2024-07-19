@@ -12,9 +12,9 @@ class Config(object):
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "5555966470:AAH0WTMGOTppHHIN9ov8d_pWRKVZiQalSMQ")  # ⚠️ Required
 
     # premium 4g renaming client
-    STRING_API_ID = os.environ.get("STRING_API_ID", "26579601")
-    STRING_API_HASH = os.environ.get("STRING_API_HASH", "5b811e9e89adfe6c636d3328b247779d")
-    STRING_SESSION = os.environ.get("STRING_SESSION", "BAGVkpEAFYW5aOLygAbeu_7hjo-DiJoyxvULO4lsyfSfu7Yz5rkDSLXpiRgXsZz24nRELyObhC5_BTkmqZex7jatTV7lNOjsVfvC9g7DwUPH5nHqnuADByqz9H_vamPauda70Y80QnBktW1ty_c8iOkKad9tQcPnldsXFGOcFaw1D9zQnhZYfDjOYpGqhAtkNmF3mrLLtTSx0K_tril_5e1Eoi7OVjEdY-hqrWg6N1jQyA3MljEHQDQW48Et0SHL7bNYh_COOMlGtChAeNAcnC6NkFPfVJXTtvGZUskBPmyuWbWwiq2O_9UkC-cJ28a5ycfjir8CzFqr7CiBUt8JRBjiULR7tAAAAAGXnJoVAA")
+    STRING_API_ID = os.environ.get("STRING_API_ID", "17777279")
+    STRING_API_HASH = os.environ.get("STRING_API_HASH", "f2cb943ac7421015761dd8f0615a31d4")
+    STRING_SESSION = os.environ.get("STRING_SESSION", "BQEPQn8AoGNk9yf8q9FN0m5WYHIgNik3a7apbs6l9NIOkLJ_yfWjwHvpGYE7OGyUNJCXCAPkGryXtepBctI3bTAVSCsiA3lij4cu4Rtf6GyGqIP0u4C3IU7bwJ28kFyjLJcHtjM86UsjiR_af-6olClEoXyMYMGDaJ-UYvmBE3UA1fd-kf2tye5_VHi2SPZE94Ani-juIiZOzol4WGuy2BUkP4oUMoMD7Krx9QZAup0nwi-VBCtNHXmJ-3_ztLTroOU_riLRU4cH9PJFplUvzS_CX-7MDbdWNs6gagz4lAiGNPnRvIRnTrOvUBXnAcobMUvUXt6vj9fv2roDOVhNXjQ8_9kuZQAAAAEukX46AA")
 
     # database config
     DB_NAME = os.environ.get("DB_NAME", "second2")
